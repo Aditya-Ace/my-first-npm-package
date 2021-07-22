@@ -1,0 +1,23 @@
+{
+  "name": "is-there-aditya",
+  "version": "1.0.0",
+  "description": "It checks if the given string includes my name Aditya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aditya-Ace/my-first-npm-package.git"
+  },
+  "keywords": [
+    "Aditya",
+    "aditya"
+  ],
+  "author": "Aditya Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aditya-Ace/my-first-npm-package/issues"
+  },
+  "homepage": "https://github.com/Aditya-Ace/my-first-npm-package#readme"
+}
